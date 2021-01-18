@@ -1,0 +1,6 @@
+COLUMN TABLE "sample.odata::table" (
+	"ID" INTEGER,
+	"Text" NVARCHAR(1000),
+	"Time" TIMESTAMP,
+	PRIMARY KEY ("ID")
+);
